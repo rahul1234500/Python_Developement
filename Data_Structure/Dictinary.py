@@ -49,3 +49,26 @@ print(list(employee_data.keys()))
 
 print(list(employee_data.values()))
 
+
+
+input_dict = {'Name' : 'Rahul Kale', 'Profession' : 'Signer'}
+
+if "Name" in input_dict.keys():
+    print(input_dict["Name"])
+else :
+    print("NA")
+
+
+my_dict = {
+    "Z" : 100,
+    "X" : 200,
+    "M" : 300,
+    "N" : 400,
+    "Y" : 600,
+    "A" : 50,
+    "B" : 90
+}
+
+print(sorted(my_dict.values()))
+print(sorted(my_dict.keys()))
+print(sorted(my_dict.items()))
