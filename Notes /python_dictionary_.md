@@ -1,5 +1,5 @@
 # 🐍 Python Dictionary, Dictionary Methods, Real-World Applications, and Operators
-### Practical notes from a senior Python developer's perspective (4–5 years of application development and debugging)
+### Practical notes from a senior Python developer's perspective 
 
 > **Audience:** Beginner to intermediate Python learners preparing for real projects and technical interviews.  
 > **Focus:** Concepts, runnable examples with outputs, backend/frontend integration, debugging, performance, and practice.
